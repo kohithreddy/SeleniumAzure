@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9294" started-at="2020-05-21T21:50:20 IST" finished-at="2020-05-21T21:50:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9294" started-at="2020-05-21T21:50:20 IST" finished-at="2020-05-21T21:50:29 IST">
+      <class name="com.test.LoadTest01">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.LoadTest01@50c87b21]" name="beforeClass" is-config="true" duration-ms="5849" started-at="2020-05-21T21:50:20 IST" finished-at="2020-05-21T21:50:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verifySearchButton()[pri:0, instance:com.test.LoadTest01@50c87b21]" name="verifySearchButton" duration-ms="2543" started-at="2020-05-21T21:50:26 IST" finished-at="2020-05-21T21:50:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchButton -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.LoadTest01@50c87b21]" name="afterClass" is-config="true" duration-ms="827" started-at="2020-05-21T21:50:28 IST" finished-at="2020-05-21T21:50:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.LoadTest01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
